@@ -67,10 +67,6 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
 #EXTINF:-1 ,张家港民生频道
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
-#EXTINF:-1 ,大丰公共频道
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
-#EXTINF:-1 ,东台综合频道
-http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
 #EXTINF:-1 ,盐都综合频道
 http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
 #EXTINF:-1 ,如东新闻综合
@@ -83,10 +79,6 @@ http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
 http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
 #EXTINF:-1 ,铜山三农频道
 http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,淮阴综合频道
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
-#EXTINF:-1 ,淮阴影院频道
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd
 #EXTINF:-1 ,金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 ,涟水综合频道
@@ -127,8 +119,6 @@ http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 #EXTINF:-1 ,贾汪旅游频道
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
-#EXTINF:-1 ,沛县新闻综合
-http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 #EXTINF:-1 ,泗阳综合频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 #EXTINF:-1 ,泗阳资讯频道
@@ -153,8 +143,6 @@ http://epg.112114.xyz/douyu/9505575
 http://epg.112114.xyz/douyu/5187099
 #EXTINF:-1 ,【经典动漫】9455567
 http://epg.112114.xyz/douyu/9455567
-#EXTINF:-1 ,鲁过一世的直播间
-http://epg.112114.xyz/douyu/9716515
 #EXTINF:-1 ,铁头与橘子（每周更新一起看霸总）
 http://epg.112114.xyz/douyu/9450942
 #EXTINF:-1 ,【神剧】经典神剧
@@ -455,8 +443,6 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 #EXTINF:-1 ,韩国DJ Soda Remix 2021 电音
 https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 ,深圳东部
-https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 #EXTINF:-1 ,梅州综合
 http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8?zguangd
 #EXTINF:-1 ,梅州二套
