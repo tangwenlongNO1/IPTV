@@ -1,503 +1,431 @@
 #EXTM3U
-#EXTINF:-1 ,CGTN
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 ,河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
-#EXTINF:-1 ,苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,爱自然
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,CCTV5-高清(1)
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 ,CCTV5-高清(2)
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 ,CCTV3
-http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
-#EXTINF:-1 ,CCTV4
-http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
-#EXTINF:-1 ,北京卫视
-http://115.149.139.141:10001/tsfile/live/1022_1.m3u8
-#EXTINF:-1 ,江苏卫视
-http://115.149.139.141:10001/tsfile/live/1026_1.m3u8
-#EXTINF:-1 ,澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 ,湖北卫视
-http://1.195.111.251:11190/tsfile/live/0132_1.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://115.149.139.141:10001/tsfile/live/1028_1.m3u8
-#EXTINF:-1 ,河北卫视
-http://115.149.139.141:10001/tsfile/live/1033_1.m3u8
-#EXTINF:-1 ,天津卫视
-http://115.149.139.141:10001/tsfile/live/1036_1.m3u8
-#EXTINF:-1 ,三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 ,延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 ,云南卫视
-http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://anren.live/HK/AQtQ.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,凤凰中文
-http://anren.live/HK/AQtR.m3u8
-#EXTINF:-1 ,凤凰中文
-http://anren.live/HK/AQtU.m3u8
-#EXTINF:-1 ,凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,凤凰中文
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 ,台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 ,香港HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,香港HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
-#EXTINF:-1 ,MIGU global
-http://gslb.cdn.hk.chinamobile.com:80/live/d172754e7b0f4ec5969b5dec6fe5e37b/74ef089a0ca147ec8e1a7d9f8151d88b-1.m3u8
-#EXTINF:-1 ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
-#EXTINF:-1 ,福利8台
-http://spacetv.in/stream/WUQP6BVK17/56.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,中国环球电视
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 ,大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 ,大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 ,唯心电视
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 ,中台湾生活网
-http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 ,ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 ,NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 ,法国时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 ,Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 ,Music Reload TV HD
-http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:-1 ,湖南常德鼎城
-https://ls.qingting.fm/live/5021860/64k.m3u8
-#EXTINF:-1 ,湖南常德交通
-https://ls.qingting.fm/live/15318209/64k.m3u8
-#EXTINF:-1 ,湖南常德音乐
-https://ls.qingting.fm/live/20212391/64k.m3u8
-#EXTINF:-1 ,湖南常德综合
-https://ls.qingting.fm/live/15318208/64k.m3u8
-#EXTINF:-1 ,湖南郴州交通旅游
-https://ls.qingting.fm/live/20867/64k.m3u8
-#EXTINF:-1 ,湖南郴州综合
-https://ls.qingting.fm/live/20489/64k.m3u8
-#EXTINF:-1 ,湖南电视剧
-http://kjol.cc/proxy/hunan.php?id=484
-#EXTINF:-1 ,湖南电视剧HD
-http://111.22.215.143:808/hls/3/index.m3u8
-#EXTINF:-1 ,湖南电影HD
-http://111.22.215.143:808/hls/2/index.m3u8
-#EXTINF:-1 ,湖南都市
-http://kjol.cc/proxy/hunan.php?id=346
-#EXTINF:-1 ,湖南公共
-http://kjol.cc/proxy/hunan.php?id=261
-#EXTINF:-1 ,湖南桂阳综合
-https://ls.qingting.fm/live/20212377/64k.m3u8
-#EXTINF:-1 ,湖南国际
-http://kjol.cc/proxy/hunan.php?id=229
-#EXTINF:-1 ,湖南衡阳好朋友
-https://ls.qingting.fm/live/21229/64k.m3u8
-#EXTINF:-1 ,湖南衡阳交通经济
-https://ls.qingting.fm/live/15318385/64k.m3u8
-#EXTINF:-1 ,湖南衡阳综合
-https://ls.qingting.fm/live/15318386/64k.m3u8
-#EXTINF:-1 ,湖南交通
-https://ls.qingting.fm/live/4879/64k.m3u8
-#EXTINF:-1 ,湖南交通广播
-http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
-#EXTINF:-1 ,湖南交通广播
-http://ls.qingting.fm/live/4879.m3u8
-#EXTINF:-1 ,湖南金鹰
-https://ls.qingting.fm/live/4937/64k.m3u8
-#EXTINF:-1 ,湖南金鹰纪实
-http://kjol.cc/proxy/hunan.php?id=316
-#EXTINF:-1 ,湖南金鹰卡通
-http://kjol.cc/proxy/hunan.php?id=287
-#EXTINF:-1 ,湖南金鹰之声
-http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
-#EXTINF:-1 ,湖南经济
-https://ls.qingting.fm/live/4983/64k.m3u8
-#EXTINF:-1 ,湖南经济广播
-http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-#EXTINF:-1 ,湖南经济广播
-http://ls.qingting.fm/live/4983.m3u8
-#EXTINF:-1 ,湖南经视
-http://kjol.cc/proxy/hunan.php?id=280
-#EXTINF:-1 ,湖南娄底交通
-https://ls.qingting.fm/live/20507/64k.m3u8
-#EXTINF:-1 ,湖南娄底综合
-https://ls.qingting.fm/live/21213/64k.m3u8
-#EXTINF:-1 ,湖南旅游年代音乐
-https://ls.qingting.fm/live/4981/64k.m3u8
-#EXTINF:-1 ,湖南芒果音乐台
-http://ls.qingting.fm/live/4979.m3u8
-#EXTINF:-1 ,湖南摩登音乐台
-https://ls.qingting.fm/live/4980/64k.m3u8
-#EXTINF:-1 ,湖南亲子智慧电台
-http://ls.qingting.fm/live/4930.m3u8
-#EXTINF:-1 ,湖南邵阳交通
-https://ls.qingting.fm/live/20148/64k.m3u8
-#EXTINF:-1 ,湖南卫视HD
-http://111.22.215.143:808/hls/1/index.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://221.0.78.198:1681/hls/10233/index.m3u8
-#EXTINF:-1 ,湖南文艺广播·摩登音乐台
-http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 ,湖南潇湘之声
-http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-#EXTINF:-1 ,湖南潇湘之声
-https://ls.qingting.fm/live/4982/64k.m3u8
-#EXTINF:-1 ,湖南新闻综合
-https://ls.qingting.fm/live/4978/64k.m3u8
-#EXTINF:-1 ,湖南新闻综合广播
-http://ls.qingting.fm/live/4978.m3u8
-#EXTINF:-1 ,湖南益阳之声
-https://ls.qingting.fm/live/20314/64k.m3u8
-#EXTINF:-1 ,湖南音乐之声·芒果音乐台
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
-#EXTINF:-1 ,湖南娱乐
-http://kjol.cc/proxy/hunan.php?id=344
-#EXTINF:-1 ,湖南娱乐HD
-http://111.22.215.143:808/hls/5/index.m3u8
-#EXTINF:-1 ,湖南岳阳交通
-https://ls.qingting.fm/live/20987/64k.m3u8
-#EXTINF:-1 ,湖南岳阳经济
-https://ls.qingting.fm/live/5022391/64k.m3u8
-#EXTINF:-1 ,湖南岳阳新闻综合
-https://ls.qingting.fm/live/20989/64k.m3u8
-#EXTINF:-1 ,湖南-张家界之声
-http://stream.zjjrtv.com/zjjgb1/playlist.m3u8?_upt=ffe7d3031653999878
-#EXTINF:-1 ,湖南长沙交通广播
-http://ls.qingting.fm/live/3967.m3u8
-#EXTINF:-1 ,湖南长沙品味音乐
-https://ls.qingting.fm/live/4930/64k.m3u8
-#EXTINF:-1 ,湖南长沙汽车音乐
-https://ls.qingting.fm/live/4979/64k.m3u8
-#EXTINF:-1 ,湖南长沙音乐
-https://ls.qingting.fm/live/20847/64k.m3u8
-#EXTINF:-1 ,湖南株洲新闻
-https://ls.qingting.fm/live/3970/64k.m3u8
-#EXTINF:-1 ,湖南综合广播
-http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="== 世界杯专区 ==",CCTV16-HD-移动
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-#EXTINF:-1 group-title="钓鱼系列" tvg-logo="http://124.220.17.172/fh/CCTVPAYFEE37.jpg",书画频道
-http://211.103.180.178:8234/live_hls/hdmi.m3u8
-#EXTINF:-1 group-title="福建",福州综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-#EXTINF:-1 group-title="福建",福州生活
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="福建",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 group-title="浙江",新昌新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 group-title="浙江",新昌生活频道
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="江苏",南京娱乐
-http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="江苏",南京十八
-http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="江苏",南京信息
-http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="河北",河北都市
-http://27.185.1.27:8092/hls/19/index.m3u8
-#EXTINF:-1 group-title="河北",河北经济
-http://27.185.1.27:8092/hls/17/index.m3u8
-#EXTINF:-1 group-title="河北",河北影视
-http://27.185.1.27:8092/hls/18/index.m3u8
-#EXTINF:-1 group-title="河北",河北公共
-http://27.185.1.27:8092/hls/20/index.m3u8
-#EXTINF:-1 group-title="河北",农民频道
-http://27.185.1.27:8092/hls/16/index.m3u8
-#EXTINF:-1 group-title="河北",石家庄新闻
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-#EXTINF:-1 group-title="河北",石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-#EXTINF:-1 group-title="河北",石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 group-title="河北",石家庄都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
-#EXTINF:-1 group-title="河南",河南都市
-http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
-#EXTINF:-1 group-title="河南",河南民生
-http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?
-#EXTINF:-1 group-title="湖南",湘潭综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="安徽",淮南新闻综合
-http://stream.0554news.com/hnds1/sd/live.m3u8
-#EXTINF:-1 group-title="安徽",淮南公共台
-http://stream.0554news.com/hnds2/sd/live.m3u8
-#EXTINF:-1 group-title="四川",洪雅新闻综合
-http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
-#EXTINF:-1 group-title="云南",文山综合
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-#EXTINF:-1 group-title="云南",文山公共
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 group-title="云南",西双版纳一
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 group-title="云南",西双版纳二
-http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
-#EXTINF:-1 group-title="贵州",贵州经济
-http://open.live-web.timetv.cn/live03/gzsjj.m3u8
-#EXTINF:-1 group-title="贵州",贵州移动
-http://open.live-web.timetv.cn/live03/gzsyd.m3u8
-#EXTINF:-1 group-title="宁夏",宁夏公共
-http://open.live-web.timetv.cn/live03/nxgg.m3u8
-#EXTINF:-1 group-title="宁夏",宁夏经济
-http://open.live-web.timetv.cn/live03/nxjj.m3u8
-#EXTINF:-1 group-title="宁夏",宁夏文旅
-http://open.live-web.timetv.cn/live03/nxys.m3u8
-#EXTINF:-1 group-title="宁夏",宁夏少儿
-http://open.live-web.timetv.cn/live03/nxse.m3u8
-#EXTINF:-1 ,CGTN俄语
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,CGTN-国际频道
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 ,CGTN西班牙
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1 ,DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Girls Gone Wild
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
-#EXTINF:-1 ,K频道欧美版
-http://live.redtraffic.xyz:80/threesome.m3u8
-#EXTINF:-1 ,波兰ⅠTV Kujawy (Opt-1)
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 ,车模视频
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239846692034.mp4
-#EXTINF:-1 ,德国ⅠBaden TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 ,二本道欧美版
-http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1 ,粉红台欧美版
-http://live.redtraffic.xyz:80/teen.m3u8
-#EXTINF:-1 ,福建 Ⅰ 厦门第一
-http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen1_2/index.m3u8
-#EXTINF:-1 ,哥斯达黎加ⅠExtrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 ,韩国 Ⅰ BBS佛教广播
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 ,韩国 Ⅰ 阿里郎WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 ,韩国·EBS加二频道
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 ,韩国·KBC SBS综艺
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 ,韩国·NBS农业广播
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 ,韩国·SBS CJB
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 ,韩国·国防电视
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 ,韩国-Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国-Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国-Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-#EXTINF:-1 ,韩国-Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-#EXTINF:-1 ,韩国-ARS
-https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
-#EXTINF:-1 ,韩国-BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 ,韩国-BBS
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 ,番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 ,韩国EBS少儿童
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+#EXTINF:-1 ,南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
+#EXTINF:-1 ,南京十八
+http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
+#EXTINF:-1 ,南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
+#EXTINF:-1 ,苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+#EXTINF:-1 ,南通影院娱乐
+http://cm.wshls.homecdn.com/live/7cc5.m3u8?zjiangsd
+#EXTINF:-1 ,南通影院娱乐
+http://cm.wshls.homecdn.com/live/7cc5.flv?zjiangsd
+#EXTINF:-1 ,淮安公共频道
+http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,淮安影院娱乐
+http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡新闻综合
+http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,张家港新闻综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
+#EXTINF:-1 ,张家港民生频道
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
+#EXTINF:-1 ,盐都综合频道
+http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
+#EXTINF:-1 ,如东新闻综合
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
+#EXTINF:-1 ,溧水新闻综合
+http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,溧水影院娱乐
+http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,铜山综合频道
+http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,铜山三农频道
+http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,金湖新闻综合
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
+#EXTINF:-1 ,涟水综合频道
+http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
+#EXTINF:-1 ,金坛新闻频道
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
+#EXTINF:-1 ,海安新闻综合
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
+#EXTINF:-1 ,新沂新闻频道
+http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,新沂生活频道
+http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+#EXTINF:-1 ,泗洪新闻综合
+http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
+#EXTINF:-1 ,睢宁综合频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
+#EXTINF:-1 ,睢宁生活教育
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
+#EXTINF:-1 ,睢宁三农频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
+#EXTINF:-1 ,睢宁资讯频道
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
+#EXTINF:-1 ,沭阳综合频道
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
+#EXTINF:-1 ,扬中新闻频道
+http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
+#EXTINF:-1 ,扬中党建民生
+http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
+#EXTINF:-1 ,靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
+#EXTINF:-1 ,靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
+#EXTINF:-1 ,东海新闻频道
+http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
+#EXTINF:-1 ,高邮综合频道
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
+#EXTINF:-1 ,贾汪新闻频道
+http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
+#EXTINF:-1 ,贾汪旅游频道
+http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
+#EXTINF:-1 ,泗阳综合频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
+#EXTINF:-1 ,泗阳资讯频道
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
+#EXTINF:-1 ,赣榆新闻综合
+http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
+#EXTINF:-1 ,【天使点播】动漫直播间
+http://epg.112114.xyz/douyu/1487654
+#EXTINF:-1 ,开心锤锤，开心快乐每一天！
+http://epg.112114.xyz/douyu/9018297
+#EXTINF:-1 ,舔狗波比的幸福生活
+http://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 ,最好看的搞笑篮球动漫
+http://epg.112114.xyz/douyu/9401305
+#EXTINF:-1 ,【动漫】记录你的王者峡谷生活~
+http://epg.112114.xyz/douyu/9360149
+#EXTINF:-1 ,【小叮当】童年经典动画片
+http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 ,中二日记搞笑日常更新
+http://epg.112114.xyz/douyu/9505575
+#EXTINF:-1 ,动漫推荐官方直播间
+http://epg.112114.xyz/douyu/5187099
+#EXTINF:-1 ,【经典动漫】9455567
+http://epg.112114.xyz/douyu/9455567
+#EXTINF:-1 ,铁头与橘子（每周更新一起看霸总）
+http://epg.112114.xyz/douyu/9450942
+#EXTINF:-1 ,【神剧】经典神剧
+http://epg.112114.xyz/douyu/3700024
+#EXTINF:-1 ,【贝爷MAX厅】科幻动作经典喜剧
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 ,【贝爷影厅】经典科幻动作灾难巨兽
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 ,【牛叔】N分钟带你看完大片
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1 ,【科幻Fans】精彩科幻影视，解说连连看
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1 ,最新奇幻电影解说-宇宙无敌韩三金
+http://epg.112114.xyz/douyu/3194372
+#EXTINF:-1 ,蛇类大观园
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
+#EXTINF:-1 ,草原三巨头
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
+#EXTINF:-1 ,草原狮子的戏剧舞台(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
+#EXTINF:-1 ,爱的奉献1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
+#EXTINF:-1 ,爱你我的宝宝(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
+#EXTINF:-1 ,爱与狗相伴
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
+#EXTINF:-1 ,白狮的荒野故事(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
+#EXTINF:-1 ,豹妈当家(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
+#EXTINF:-1 ,北极熊之光(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
+#EXTINF:-1 ,北极熊之光(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
+#EXTINF:-1 ,冰雪王国里的童话
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
+#EXTINF:-1 ,捕食一瞬间(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
+#EXTINF:-1 ,捕食者追猎现场(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
+#EXTINF:-1 ,超级狮子群的故事(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
+#EXTINF:-1 ,充满爱的象家族2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
+#EXTINF:-1 ,穿越狮子的领地
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
+#EXTINF:-1 ,传奇母狮
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
+#EXTINF:-1 ,聪明的建筑师
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
+#EXTINF:-1 ,丛林之王美洲豹
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
+#EXTINF:-1 ,打造一只超级猫
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
+#EXTINF:-1 ,大力士捕鱼记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
+#EXTINF:-1 ,大猫榜中榜(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
+#EXTINF:-1 ,大猫传奇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
+#EXTINF:-1 ,大猫归来
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
+#EXTINF:-1 ,大猫们的世界
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
+#EXTINF:-1 ,大象的别样生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
+#EXTINF:-1 ,大象的秘密生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
+#EXTINF:-1 ,大象与羊的神奇友情(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
+#EXTINF:-1 ,大象与羊的神奇友情(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
+#EXTINF:-1 ,冬日雪鸮
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
+#EXTINF:-1 ,动物宝宝闯天涯(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
+#EXTINF:-1 ,动物搏击运动会
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
+#EXTINF:-1 ,动物冠军竞技场(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
+#EXTINF:-1 ,动物冠军俱乐部
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
+#EXTINF:-1 ,动物界捕食奇观
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
+#EXTINF:-1 ,都市里的丛林(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
+#EXTINF:-1 ,都市里的野生家园(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
+#EXTINF:-1 ,鳄鱼出海
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
+#EXTINF:-1 ,非同一般的友谊
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
+#EXTINF:-1 ,非洲水牛战狮群(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
+#EXTINF:-1 ,非洲野放计划3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
+#EXTINF:-1 ,非洲野放计划4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
+#EXTINF:-1 ,古老的活化石恒河鳄(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
+#EXTINF:-1 ,海的呼唤
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
+#EXTINF:-1 ,海底生存战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
+#EXTINF:-1 ,海鬣蜥的幸福生活
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
+#EXTINF:-1 ,海豚的奇妙生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
+#EXTINF:-1 ,海洋宫殿的守护者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
+#EXTINF:-1 ,海洋里的神奇家族(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
+#EXTINF:-1 ,海洋里的神奇家族(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
+#EXTINF:-1 ,海中世界多神奇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+#EXTINF:-1 ,旱季冒险故事
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
+#EXTINF:-1 ,呵护
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
+#EXTINF:-1 ,河里的捕食大师(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
+#EXTINF:-1 ,河龙王出海
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
+#EXTINF:-1 ,黑猩猩的丛林法则
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
+#EXTINF:-1 ,虎妈妈爱(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
+#EXTINF:-1 ,荒野里的呼唤
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
+#EXTINF:-1 ,家有萌宝1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
+#EXTINF:-1 ,家有萌宝2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
+#EXTINF:-1 ,角马幸运儿(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
+#EXTINF:-1 ,进化中的北极熊
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
+#EXTINF:-1 ,巨兽来了
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
+#EXTINF:-1 ,凯门鳄的奇妙旅程
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
+#EXTINF:-1 ,看得见的远方1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
+#EXTINF:-1 ,可爱的海獭(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
+#EXTINF:-1 ,来到这个美丽的世界(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
+#EXTINF:-1 ,冷静与柔情
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
+#EXTINF:-1 ,猎豹妈妈育儿记(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
+#EXTINF:-1 ,猎食计划2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
+#EXTINF:-1 ,猫科动物谁为王者(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
+#EXTINF:-1 ,美食的
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
+#EXTINF:-1 ,猛虎柔情
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
+#EXTINF:-1 ,秘境里的动物王国
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
+#EXTINF:-1 ,秘境之蛇
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
+#EXTINF:-1 ,南美野生世界1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
+#EXTINF:-1 ,南美野生世界3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
+#EXTINF:-1 ,螃蟹岛海战(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
+#EXTINF:-1 ,奇特动物的奇特遭遇(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
+#EXTINF:-1 ,棋逢对手
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
+#EXTINF:-1 ,抢滩勇士(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
+#EXTINF:-1 ,勤奋的捕食者
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
+#EXTINF:-1 ,情满大草原2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
+#EXTINF:-1 ,森林是我家1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
+#EXTINF:-1 ,森林是我家2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
+#EXTINF:-1 ,生存的望(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
+#EXTINF:-1 ,生存的望(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
+#EXTINF:-1 ,生存极限大挑战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
+#EXTINF:-1 ,狮口余生的小角马(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
+#EXTINF:-1 ,狮群的荣耀
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+#EXTINF:-1 ,狮子的荣耀回归之路1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
+#EXTINF:-1 ,狮子的荣耀回归之路2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
+#EXTINF:-1 ,狮子的荣耀回归之路4
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
+#EXTINF:-1 ,狮子和鬣狗(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
+#EXTINF:-1 ,狮族迷踪2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
+#EXTINF:-1 ,狮族迷踪3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
+#EXTINF:-1 ,湿地有萌兽
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
+#EXTINF:-1 ,兽语如歌
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
+#EXTINF:-1 ,水牛向前冲(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
+#EXTINF:-1 ,水牛与狮子的争战
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
+#EXTINF:-1 ,水獭奇缘
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
+#EXTINF:-1 ,水豚爱湿地
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
+#EXTINF:-1 ,速度大比拼(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
+#EXTINF:-1 ,速度与生存1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
+#EXTINF:-1 ,速度与生存3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
+#EXTINF:-1 ,探秘冰上的北极熊(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
+#EXTINF:-1 ,探秘雨林利爪族(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
+#EXTINF:-1 ,天生野长生命课程(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/95839705cfdc471aa67a09b7cfd6f52d/1200.m3u8
+#EXTINF:-1 ,童话般的雨林(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
+#EXTINF:-1 ,蜥蜴安身火山岛(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
+#EXTINF:-1 ,险境求生
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
+#EXTINF:-1 ,小动物大猎手(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
+#EXTINF:-1 ,小动物大英雄
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+#EXTINF:-1 ,小鼠奇遇记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
+#EXTINF:-1 ,小象和绵羊朋友(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
+#EXTINF:-1 ,小熊的故事1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
+#EXTINF:-1 ,小熊的梦幻森林1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
+#EXTINF:-1 ,小熊的梦幻森林3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
+#EXTINF:-1 ,熊在旅途(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
+#EXTINF:-1 ,雪鸮的生存之舞
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
+#EXTINF:-1 ,耀眼的白狮家族2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
+#EXTINF:-1 ,野狗家族传世之爱
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
+#EXTINF:-1 ,野生白狮(中)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
+#EXTINF:-1 ,野生世界竞技场(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
+#EXTINF:-1 ,一片住着熊的森林2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
+#EXTINF:-1 ,一片住着熊的森林3
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
+#EXTINF:-1 ,隐秘王国里的奇迹1
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
+#EXTINF:-1 ,勇闯包围圈
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
+#EXTINF:-1 ,勇闯都市丛林
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
+#EXTINF:-1 ,勇敢的王者之心
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
+#EXTINF:-1 ,勇敢的长颈鹿(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
+#EXTINF:-1 ,有一只美丽的大水獭
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
+#EXTINF:-1 ,雨季狮踪
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
+#EXTINF:-1 ,原野逐梦记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
+#EXTINF:-1 ,绽放的生命2
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b6ed77c03224d298a72a8311fcf10a7/1200.m3u8
+#EXTINF:-1 ,植物王国漫游记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
+#EXTINF:-1 ,植物王国漫游记
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
+#EXTINF:-1 ,追踪兽王
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
+#EXTINF:-1 ,棕熊把守的水上要塞(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
+#EXTINF:-1 ,棕熊的捕鱼生活(上)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
+#EXTINF:-1 ,棕熊的捕鱼生活(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
+#EXTINF:-1 ,足球超级猎食者(下)
+https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 #EXTINF:-1 ,韩国DJ Soda Remix 2021 电音
 https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 ,韩国-EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国-EBSe
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 ,韩国EBSE频道
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 ,韩国EBS第二频道
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 ,韩国EBS第一频道
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 ,韩国EBS加一频道
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 ,韩国EBS少儿频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 ,韩国lEBS 儿童频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 ,韩国MBC频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 ,韩国TJB SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 ,韩国阿里郎WORLDworld
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 ,韩国动感舞曲1
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-#EXTINF:-1 ,韩国动感舞曲2
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-#EXTINF:-1 ,韩国歌团001
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-#EXTINF:-1 ,吉林 Ⅰ 吉林都市
-http://stream1.jlntv.cn/dspd/sd/live.m3u8
-#EXTINF:-1 ,吉林 Ⅰ 吉林都市
-http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
-#EXTINF:-1 ,吉林 Ⅰ 吉林公共
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 ,吉林 Ⅰ 吉林七台
-http://stream1.jlntv.cn/fzpd/sd/live.m3u8
-#EXTINF:-1 ,吉林 Ⅰ 吉林生活
-http://stream1.jlntv.cn/shpd/sd/live.m3u8
-#EXTINF:-1 ,吉林 Ⅰ 吉林生活
-http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
-#EXTINF:-1 ,吉林 Ⅰ 吉林乡村
-http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 ,吉林 Ⅰ 吉林影视
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 ,加拿大ⅠThe Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 ,江苏 Ⅰ 靖江电视
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 ,江苏 Ⅰ 张家港民生
-http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
-#EXTINF:-1 ,江苏 Ⅰ 张家港综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 ,喀麦隆ⅠVision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 ,拉脱维亚RETV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:-1 ,迈克尔杰克逊
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
-#EXTINF:-1 ,美国ⅠNewsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,欧美动感DJ
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-#EXTINF:-1 ,欧美动感歌曲1
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
-#EXTINF:-1 ,欧美动感歌曲2
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
-#EXTINF:-1 ,欧美群星-天下一家
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
-#EXTINF:-1 ,潘多拉欧美版
-http://live.redtraffic.xyz:80/pornstar.m3u8
-#EXTINF:-1 ,彭博财经
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 ,朴孝敏 –SKETCH
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
-#EXTINF:-1 ,青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-#EXTINF:-1 ,日本 Ⅰ 声优广播
-http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
-#EXTINF:-1 ,日韩无码2
-https://m3u8.46cdn.com/videos/akex/1905/7vjtDwwP/7vjtDwwP.m3u8
-#EXTINF:-1 ,日韩无码3
-https://m3u8.46cdn.com/videos/akex/1905/N8UFEDcj/N8UFEDcj.m3u8
-#EXTINF:-1 ,日韩无码4
-https://m3u8.41cdn.com/videos/201910/0y7WTW0v/hls/0y7WTW0v.m3u8
-#EXTINF:-1 ,日韩无码5
-https://m3u8.34cdn.com/videos/201908/8v33bdqt/hls/8v33bdqt.m3u8
-#EXTINF:-1 ,日韩无码6
-https://m3u8.48cdn.com/videos/201908/sb6ksmxx/hls/sb6ksmxx.m3u8
-#EXTINF:-1 ,上下(中文版)
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
-#EXTINF:-1 ,斯洛伐克TV8
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
-#EXTINF:-1 ,斯洛伐克TVNZ
-http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 ,松视1欧美版
-http://live.redtraffic.xyz:80/fetish.m3u8
-#EXTINF:-1 ,松视2欧美版
-http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 ,泰国·CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 ,泰国·公共三台
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 ,泰国PBS
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 ,土耳其CayTV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 ,玩美台欧美版
-http://live.redtraffic.xyz:80/pov.m3u8
-#EXTINF:-1 ,西班牙TVGaliciaEuropa
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 ,希腊IonianChannel
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-#EXTINF:-1 ,香蕉台欧美版
-http://live.redtraffic.xyz:80/milf.m3u8
-#EXTINF:-1 ,新加坡
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,新加坡-CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,新马 Ⅰ 亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 ,亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 ,亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,延边卫视
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 ,伊拉克 Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 ,伊拉克 Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 ,伊朗PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 ,意大利ⅠSuperTV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 ,印尼-Aditv
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 ,越南-CTV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 ,越南ktv
-http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:-1 ,越南和平HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 ,越南坚江频道
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 ,云南 Ⅰ 红河综合
-http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 ,云南 Ⅰ 麻栗坡台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
-#EXTINF:-1 ,云南 Ⅰ 马关电视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8
-#EXTINF:-1 ,浙江 Ⅰ 绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 ,浙江 Ⅰ 绍兴影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 ,浙江 Ⅰ 绍兴综合
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 ,重庆 Ⅰ 万州影视
-http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 ,重庆 Ⅰ 万州综合
-http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 ,梅州综合
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8?zguangd
+#EXTINF:-1 ,梅州二套
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8?zguangd
+#EXTINF:-1 ,河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
+#EXTINF:-1 ,河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
+#EXTINF:-1 ,北京新闻
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+#EXTINF:-1 ,北京通州
+http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
