@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/4K%E7%94%B5%E5%BD%B1.png",4K超高清电影
 http://159.75.85.63:5681/sxg.php
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/AXN.png",AXN台湾
-http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bltv_tw.png",Beautiful Life TV
@@ -59,8 +57,6 @@ https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://live.fanmingming.com/tv/CGTN%E8%A5%BF%E8%AF%AD.png",CGTN Español (576p)
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CinemaxHD.png",CINEMAX
-http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 #EXTINF:-1 ,circle
 https://circle-roku.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 ,CJB SBS
@@ -191,12 +187,8 @@ https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b273098
 http://epg.112114.xyz/douyu/5423?$3M1536x864
 #EXTINF:-1 ,國家地理頻道
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-#EXTINF:-1 ,國家地理頻道
-http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1 ,國家地理野生頻道
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
-#EXTINF:-1 ,韓國新聞
-http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",河源公共 (540p)
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="Undefined",河源综合 (540p)

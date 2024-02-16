@@ -1,103 +1,99 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视",香港卫视
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视",香港卫视
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-#EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 ,台视新闻
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,番薯台
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/fanstv.jpg",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 #EXTINF:-1 ,韩国EBS少儿童
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-#EXTINF:-1 ,南京娱乐
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/njylpd.jpg",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
-#EXTINF:-1 ,南京十八
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/njsbpd.jpg",南京十八
 http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
-#EXTINF:-1 ,南京信息
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/njxxpd.jpg",南京信息
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
-#EXTINF:-1 ,苏州4k
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/苏州4K.png",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-#EXTINF:-1 ,南通影院娱乐
-http://cm.wshls.homecdn.com/live/7cc5.m3u8?zjiangsd
-#EXTINF:-1 ,南通影院娱乐
-http://cm.wshls.homecdn.com/live/7cc5.flv?zjiangsd
 #EXTINF:-1 ,淮安公共频道
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,淮安影院娱乐
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/haysylpd.jpg",淮安影院娱乐
 http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,无锡新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxxwzh.png",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,无锡娱乐
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxylpd.png",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,无锡都市资讯
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxdszx.png",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,无锡生活
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxshpd.png",无锡生活
 http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,无锡经济
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxjjpd.png",无锡经济
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,张家港新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/zjgxwzh.jpg",张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
-#EXTINF:-1 ,张家港民生频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/zjgmspd.jpg",张家港民生频道
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
-#EXTINF:-1 ,盐都综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yandutai.jpg",盐都综合频道
 http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
-#EXTINF:-1 ,如东新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/rdtv1.jpg",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
-#EXTINF:-1 ,溧水新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lishuiqu.jpg",溧水新闻综合
 http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,溧水影院娱乐
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lishuiqu.jpg",溧水影院娱乐
 http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,铜山综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/tongshantai.jpg",铜山综合频道
 http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,铜山三农频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/tongshantai.jpg",铜山三农频道
 http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,金湖新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jinghutai.jpg",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-#EXTINF:-1 ,涟水综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lianshuitai.jpg",涟水综合频道
 http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd
-#EXTINF:-1 ,金坛新闻频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jingtantai.jpg",金坛新闻频道
 http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
-#EXTINF:-1 ,海安新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/haiantai.jpg",海安新闻综合
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
-#EXTINF:-1 ,新沂新闻频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xinyishi.jpg",新沂新闻频道
 http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,新沂生活频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xinyishi.jpg",新沂生活频道
 http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
-#EXTINF:-1 ,泗洪新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/sihongtai.jpg",泗洪新闻综合
 http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
-#EXTINF:-1 ,睢宁综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
-#EXTINF:-1 ,睢宁生活教育
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁生活教育
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
-#EXTINF:-1 ,睢宁三农频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁三农频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
-#EXTINF:-1 ,睢宁资讯频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁资讯频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
-#EXTINF:-1 ,沭阳综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suyangtai.jpg",沭阳综合频道
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-#EXTINF:-1 ,扬中新闻频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yangzhongtv.jpg",扬中新闻频道
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
-#EXTINF:-1 ,扬中党建民生
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yangzhongtv.jpg",扬中党建民生
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
-#EXTINF:-1 ,靖江新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jjxwzhpd.jpg",靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
-#EXTINF:-1 ,靖江新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jjxwzhpd.jpg",靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
-#EXTINF:-1 ,东海新闻频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/donghaitai.jpg",东海新闻频道
 http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
-#EXTINF:-1 ,高邮综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/gaoyoutai.jpg",高邮综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 #EXTINF:-1 ,贾汪新闻频道
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 #EXTINF:-1 ,贾汪旅游频道
 http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
-#EXTINF:-1 ,泗阳综合频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/siyangtai.jpg",泗阳综合频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
-#EXTINF:-1 ,泗阳资讯频道
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/siyangtai.jpg",泗阳资讯频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-#EXTINF:-1 ,赣榆新闻综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/ganyutai.jpg",赣榆新闻综合
 http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 #EXTINF:-1 ,【天使点播】动漫直播间
 http://epg.112114.xyz/douyu/1487654
@@ -115,8 +111,6 @@ http://epg.112114.xyz/douyu/9445279
 http://epg.112114.xyz/douyu/9505575
 #EXTINF:-1 ,动漫推荐官方直播间
 http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 ,【经典动漫】9455567
-http://epg.112114.xyz/douyu/9455567
 #EXTINF:-1 ,铁头与橘子（每周更新一起看霸总）
 http://epg.112114.xyz/douyu/9450942
 #EXTINF:-1 ,【神剧】经典神剧
@@ -417,15 +411,15 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 #EXTINF:-1 ,韩国DJ Soda Remix 2021 电音
 https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 ,梅州综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/meizhou.jpg",梅州综合
 http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8?zguangd
-#EXTINF:-1 ,梅州二套
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/meizhou.jpg",梅州二套
 http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8?zguangd
-#EXTINF:-1 ,河源综合
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/heyuan.jpg",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
-#EXTINF:-1 ,河源公共
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/heyuan.jpg",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-#EXTINF:-1 ,北京新闻
+#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/allimg/1706/1-1F6011123040-L.jpg",北京新闻
 http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 #EXTINF:-1 ,北京通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
