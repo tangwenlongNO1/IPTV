@@ -79,8 +79,6 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/FTV.png",FTV
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png",HBO温馨家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 ,HBO原创巨献
 http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 ,KBC SBS
@@ -119,8 +117,6 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻
-http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ns3WrOQ.png",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 ,ubc SBS
@@ -165,8 +161,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/inde
 http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 ,動物星球頻道
 http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-#EXTINF:-1 ,動物星球頻道
-http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 ,俄罗斯(中文)
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,俄罗斯GITV
@@ -185,10 +179,6 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 #EXTINF:-1 ,国产影片
 http://epg.112114.xyz/douyu/5423?$3M1536x864
-#EXTINF:-1 ,國家地理頻道
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
-#EXTINF:-1 ,國家地理野生頻道
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=MDDD9803492998034929&ct=18393&tsum=b276f2598186cdc8f4c513d89bfc2032
 #EXTINF:-1 group-title="Undefined",河源公共 (540p)
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="Undefined",河源综合 (540p)

@@ -37,8 +37,6 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/zjgmspd.jpg",张家港民生频道
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yandutai.jpg",盐都综合频道
-http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/rdtv1.jpg",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lishuiqu.jpg",溧水新闻综合
