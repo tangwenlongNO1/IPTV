@@ -69,14 +69,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1873256595_-856782013/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/nasatv.jpg",NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/natgeo.jpg",國家地理頻道
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/geographic.jpg",國家地理野生頻道
 http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/starhd.jpg",星卫HD电影
 http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png",HBO原创巨献
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png",NewTV黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw183610459_1541235397/ott.mobaibox.com/PLTV/88888890/224/3221225567/index.m3u8?icpid=88888890&RTS=1687952395&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",NewTV黑莓动画
@@ -119,8 +115,6 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/bozhouxinwen.jpg",亳州新闻频道
 http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/包头新闻综合.png",包头新闻综合
-http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jlxcpd.jpg",吉林乡村
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jlxwpd.jpg",吉林公共新闻

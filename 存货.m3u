@@ -37,8 +37,6 @@ https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
 https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/cfvjieR.png",CCTV-4 Asia (576p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV4K
@@ -79,8 +77,6 @@ http://80.94.54.42/fashiontv/stream/playlist.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/FTV.png",FTV
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 ,HBO原创巨献
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:-1 ,KBC SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 ,KBC SBS
@@ -97,8 +93,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png",NTD TV East (New Tang Dynasty Television)
 https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 ,Qatar TV 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (1080p)
@@ -157,8 +151,6 @@ http://live.cztv.cc:85/live/sjpd.m3u8
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png",大湾区卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-#EXTINF:-1 ,东森洋片
-http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 #EXTINF:-1 ,動物星球頻道
 http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
 #EXTINF:-1 ,俄罗斯(中文)
@@ -243,10 +235,6 @@ http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 ,泰国ASTV News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 ,天映经典
-http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-#EXTINF:-1 ,天映经典
-http://210.210.155.37/qwr9ew/s/s31/01.m3u8
 #EXTINF:-1 group-title="Undefined",通州电视台 (720p)
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="Undefined",万州科教 (576p)

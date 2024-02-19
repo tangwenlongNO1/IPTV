@@ -63,8 +63,6 @@ http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁综合频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁生活教育
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁三农频道
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suiningtv.jpg",睢宁资讯频道
