@@ -43,10 +43,6 @@ http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lishuiqu.jpg",溧水影院娱乐
 http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/tongshantai.jpg",铜山综合频道
-http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/tongshantai.jpg",铜山三农频道
-http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jinghutai.jpg",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lianshuitai.jpg",涟水综合频道
