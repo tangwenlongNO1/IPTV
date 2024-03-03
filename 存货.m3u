@@ -317,10 +317,6 @@ http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",张家港新闻综合 (720p)
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",张家界1 (240p) [Not 24/7]
-http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
-#EXTINF:-1 group-title="Undefined",张家界2台 (240p) [Not 24/7]
-http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 #EXTINF:-1 group-title="Undefined",浙江 Ⅰ 绍兴影视 (720p)
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="Undefined",浙江 Ⅰ 绍兴综合 (576p)

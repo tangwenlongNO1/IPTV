@@ -217,8 +217,6 @@ https://ls.qingting.fm/live/20987/64k.m3u8
 https://ls.qingting.fm/live/5022391/64k.m3u8
 #EXTINF:-1 ,湖南岳阳新闻综合
 https://ls.qingting.fm/live/20989/64k.m3u8
-#EXTINF:-1 ,湖南-张家界之声
-http://stream.zjjrtv.com/zjjgb1/playlist.m3u8?_upt=ffe7d3031653999878
 #EXTINF:-1 ,湖南长沙交通广播
 http://ls.qingting.fm/live/3967.m3u8
 #EXTINF:-1 ,湖南长沙品味音乐
@@ -319,8 +317,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 ,韩国-Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-#EXTINF:-1 ,韩国-ARS
-https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 #EXTINF:-1 ,韩国-BBS
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 ,韩国-EBS2
@@ -379,8 +375,6 @@ https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
 http://live.redtraffic.xyz:80/fetish.m3u8
 #EXTINF:-1 ,松视2欧美版
 http://live.redtraffic.xyz:80/bigdick.m3u8
-#EXTINF:-1 ,泰国·CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 ,泰国·公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 ,土耳其CayTV

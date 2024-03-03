@@ -27,8 +27,6 @@ http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxylpd.png",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxdszx.png",无锡都市资讯
-http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxshpd.png",无锡生活
 http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxjjpd.png",无锡经济
@@ -73,8 +71,6 @@ http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jjxwzhpd.jpg",靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/donghaitai.jpg",东海新闻频道
-http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/gaoyoutai.jpg",高邮综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 #EXTINF:-1 ,贾汪新闻频道
