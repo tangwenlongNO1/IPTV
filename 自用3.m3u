@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 ,真情之夜
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
+#EXTINF:-1 ,叶光明牧师
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch16-2.m3u8
+#EXTINF:-1 ,大卫鲍森
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch17-2.m3u8
+#EXTINF:-1 ,国际讲员
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
+#EXTINF:-1 ,恩典时分
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch20-2.m3u8
+#EXTINF:-1 ,华语讲员
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
+#EXTINF:-1 ,刘三讲古
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+#EXTINF:-1 ,空中圣经学院
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
+#EXTINF:-1 ,诗歌精选
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch28-2.m3u8
+#EXTINF:-1 ,经典音乐河
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
+#EXTINF:-1 ,敬拜赞美音乐
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+#EXTINF:-1 ,福音布道音乐
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+#EXTINF:-1 ,祷告与转化
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch32-2.m3u8
+#EXTINF:-1 ,研经培灵
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch33-2.m3u8
+#EXTINF:-1 ,天父的心
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch35-2.m3u8
+#EXTINF:-1 ,末世信息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch38-2.m3u8
+#EXTINF:-1 ,台中好圣诞
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch39-2.m3u8
+#EXTINF:-1 ,转转发现
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch40-2.m3u8
+#EXTINF:-1 ,爱+好医生1
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch42-2.m3u8
+#EXTINF:-1 ,幸福来敲门
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch43-2.m3u8
+#EXTINF:-1 ,新约妙妙妙
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
+#EXTINF:-1 ,新约妙妙妙
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 ,牧者频道
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch47-2.m3u8
+
+影视,
+#EXTINF:-1 ,科幻动作经典喜剧
+http://epg.112114.xyz/douyu/4332?$9M斗鱼
+#EXTINF:-1 ,米娅电影
+http://epg.112114.xyz/douyu/6537888?$10M斗鱼
+#EXTINF:-1 ,科幻 动作
+http://epg.112114.xyz/douyu/252802?$10M斗鱼
+#EXTINF:-1 ,CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?$8M陕回
+#EXTINF:-1 ,CHC家庭电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
+#EXTINF:-1 ,CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
+#EXTINF:-1 ,CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
+#EXTINF:-1 ,CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
+#EXTINF:-1 ,CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
+#EXTINF:-1 ,CHC家庭电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
+#EXTINF:-1 ,《武侠剧》_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471&$1024x768
+#EXTINF:-1 ,【吐槽】吐槽一下，快乐一天_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9236042&$1080x602
+#EXTINF:-1 ,最爱贾萌萌_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343&$1080x720
+#EXTINF:-1 ,沈腾电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778&$1280x720
+#EXTINF:-1 ,丧尸 鬼片 恐怖 惊悚 电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=96577&$1280x720
+#EXTINF:-1 ,元芳到底看不看_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991&$1280x720
+#EXTINF:-1 ,直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142&$1280x720
+#EXTINF:-1 ,【牛叔】N分钟带你看完大片_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2758565&$1280x720
+#EXTINF:-1 ,【柯南】专业解说柯南直播间_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9065082&$1280x720
+#EXTINF:-1 ,【悬疑】都市猎奇传说、恐怖故事_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2337939&$1280x720
+#EXTINF:-1 ,新三国
+http://huanqiuzhibo.cn/manifest/douyu.php?id=276200&$1280x720
+#EXTINF:-1 ,【美食】何以解忧，荞麦乌冬~_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8953746&$1280x720
+#EXTINF:-1 ,【沙雕】五毛特效，大战恶龙_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7421687&$1280x720
+#EXTINF:-1 ,【小鸽陪看】动作 枪战 经典 科幻_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3928&$1280x720
+#EXTINF:-1 ,杀死燕双鹰，活捉狄仁杰！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3439096&$1280x720
+#EXTINF:-1 ,晓妞动漫花园o(∩_∩)o_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=426517&$1280x720
+#EXTINF:-1 ,范闲、王启年、陈萍萍~_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256&$1280x720
+#EXTINF:-1 ,【经典巨制】欧美大片_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084&$1280x720
+#EXTINF:-1 ,懒猫 美食家 点播_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=260322&$1280x720
+#EXTINF:-1 ,【恐怖电影】鬼片 僵尸 灾难 丧尸片_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926&$1280x720
+#EXTINF:-1 ,正常开播，欢迎欢迎_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=319576&$1280x720
+#EXTINF:-1 ,【倍速播放】快乐会加倍！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4105989&$1280x720
+#EXTINF:-1 ,【胥渡吧】经典搞笑 神配音~_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2040822&$1280x720
+#EXTINF:-1 ,每天不重复，好剧播不停~_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7476264&$1280x720
+#EXTINF:-1 ,【笑场】喜剧电影专场，笑就vans了_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292492&$1280x720
+#EXTINF:-1 ,【奥雷】带你看遍奇葩老电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1224356&$1280x720
+#EXTINF:-1 ,【天使点播】官方电视剧直播间_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7623292&$1280x720
+#EXTINF:-1 ,高分动漫精彩解说_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9391292&$1280x720
+#EXTINF:-1 ,讲故事的角马 一起看电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4400816&$1280x720
+#EXTINF:-1 ,【邦德】再帮我一个忙，让我消失_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499&$1280x720
+#EXTINF:-1 ,电影最TOP_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2164691&$1280x720
+#EXTINF:-1 ,【午夜消暑】伊藤润二恐怖漫画血亏解说专场_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8936207&$1280x720
+#EXTINF:-1 ,纪录经典时刻..... 3485629_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3485629&$1280x720
+#EXTINF:-1 ,【武侠】【经典】【历史】_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5875025&$1280x720
+#EXTINF:-1 ,肖胜350的直播间_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7338853&$1280x720
+#EXTINF:-1 ,【绝命毒师】经典美剧解说_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9422144&$1280x720
+#EXTINF:-1 ,顺风为主 其他情喜影剧集锦为辅 随机连播_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6369954&$1280x720
+#EXTINF:-1 ,世界第一直播员_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4579455&$1280x720
+#EXTINF:-1 ,重新开业！感谢支持！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7495810&$1280x720
+#EXTINF:-1 ,避风港电影院_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9826611&$1280x720
+#EXTINF:-1 ,【米尼影院】纪录片_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7642724&$1280x720
+#EXTINF:-1 ,经典影视直播间 3113309_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3113309&$1280x720
+#EXTINF:-1 ,曾经的回忆 7812810_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7812810&$1280x720
+#EXTINF:-1 ,鼎香楼的故事_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=299854&$1440x900
+#EXTINF:-1 ,【吐槽】烂片的克星，老邪入驻啦_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870&$1536x720
+#EXTINF:-1 ,【瑶瑶】童年阴影 鬼片 恐怖 惊悚_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323&$1536x864
+#EXTINF:-1 ,【美剧】几分钟看经典美剧！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1979257&$1600x900
+#EXTINF:-1 ,【花卷陪看】60帧豆瓣高分电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=52787&$1920x1080
+#EXTINF:-1 ,24H欢乐不断
+http://huanqiuzhibo.cn/manifest/douyu.php?id=131977&$1920x1080
+#EXTINF:-1 ,直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296&$1920x1080
+#EXTINF:-1 ,饭点陪聊_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9527700&$1920x1080
+#EXTINF:-1 ,【小片片】片荒的日子就找小片片！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4258555&$1920x1080
+#EXTINF:-1 ,凛冬将至，夜王之争_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323&$1920x1080
+#EXTINF:-1 ,【贝贝】军旅 喜剧 动作 意大利炮_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=431460&$1920x1080
+#EXTINF:-1 ,拳叔正在解说——灌篮高手_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9484105&$1920x1080
+#EXTINF:-1 ,动作片
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332&$1920x1080
+#EXTINF:-1 ,周星驰 星爷 华语 经典 电影 神乐_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402&$1920x1080
+#EXTINF:-1 ,神乐 华语 经典 电影 刘德华 周星驰_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894&$1920x1080
+#EXTINF:-1 ,【小宇60帧】科幻 动作 灾难 喜剧电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=323876&$1920x1080
+#EXTINF:-1 ,【贝爷影厅】经典 科幻 动作 灾难 巨兽_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802&$1920x1080
+#EXTINF:-1 ,【影视/动作】那些操作猛如虎的精彩瞬间_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9627172&$1920x1080
+#EXTINF:-1 ,【星君】N分钟带你看大片_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8014467&$1920x1080
+#EXTINF:-1 ,大明1566
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650849&$1920x1080
+#EXTINF:-1 ,【速看】潘金莲、武松那点事儿_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8986636&$1920x1080
+#EXTINF:-1 ,新网剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8507023&$1920x1080
+#EXTINF:-1 ,日剧场
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650860&$1920x1080
+#EXTINF:-1 ,电影 欧美 科幻 经典_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415&$1920x1080
+#EXTINF:-1 ,纯欲系初恋 电视剧 电影 动漫_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658&$1920x1080
+#EXTINF:-1 ,粤语电影?周星驰 林正英 经典喜剧 白话_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671&$1920x1080
+#EXTINF:-1 ,【冰冰】恐怖/经典/搞笑陪你一起_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=74374&$1920x1080
+#EXTINF:-1 ,【庆帝】云淡风轻正闲处，鲜衣怒马少年时_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7489563&$1920x1080
+#EXTINF:-1 ,渡尽劫波兄弟在，相逢一笑泯恩仇！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350&$1920x1080
+#EXTINF:-1 ,飞社长日本二次元探秘_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=524757&$1920x1080
+#EXTINF:-1 ,【悬疑】古今中外犯罪录_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9171887&$1920x1080
+#EXTINF:-1 ,【一口气看完整部动漫】死火海热门动漫解说_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9446706&$1920x1080
+#EXTINF:-1 ,【悬疑】午夜惊悚乐园，点上关注带你探险！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9075333&$1920x1080
+#EXTINF:-1 ,音乐相随，清凉一夏～_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925&$1920x1080
+#EXTINF:-1 ,《探奇录-案件篇》_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9746763&$1920x1080
+#EXTINF:-1 ,周杰伦MV音乐电影演唱会_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7537296&$1920x1080
+#EXTINF:-1 ,中二日记搞笑日常更新_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9505575&$1920x1080
+#EXTINF:-1 ,【贝爷影厅】欧美 日韩 国产 2号厅_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=36337&$1920x1080
+#EXTINF:-1 ,【华语】流行、经典、歌曲_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217&$1920x1080
+#EXTINF:-1 ,☆卡卡罗特☆_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7286439&$1920x1080
+#EXTINF:-1 ,【特摄】你要相信光！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9392433&$1920x1080
+#EXTINF:-1 ,荒野求生纪录片小天地_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9661369&$1920x1080
+#EXTINF:-1 ,【刘哔电影】带你看不一样的电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2632223&$1920x1080
+#EXTINF:-1 ,六月喜剧 王总好  三口一头猪_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1274132&$1920x1080
+#EXTINF:-1 ,英大吉的奇闻&故事档案_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9174097&$1920x1080
+#EXTINF:-1 ,【恐怖片】专注恐怖片赏析与原创解说！！！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9280384&$1920x1080
+#EXTINF:-1 ,【史君观影】国产刑侦电视剧太精彩了_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9644669&$1920x1080
+#EXTINF:-1 ,“正在解说——哆啦A梦”_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9445279&$1920x1080
+#EXTINF:-1 ,带你体验宇宙时空之旅_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9439712&$1920x1080
+#EXTINF:-1 ,天才出少年！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2726977&$1920x1080
+#EXTINF:-1 ,【娜娜酱】带你一起看动漫_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9445557&$1920x1080
+#EXTINF:-1 ,槽槽有槽点看电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=752376&$1920x1080
+#EXTINF:-1 ,【经典影视韩车模小刚歌】_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1360303&$1920x1080
+#EXTINF:-1 ,译制国语影片荟萃_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390&$1920x1080
+#EXTINF:-1 ,百大UP主最新视频，每周一更新_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1557505&$1920x1080
+#EXTINF:-1 ,扯点电影那些事~！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5354713&$1920x1080
+#EXTINF:-1 ,港剧电视剧 满满的回忆_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850&$1920x1080
+#EXTINF:-1 ,【宇哥】总有你没看过的经典_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=413573&$1920x1080
+#EXTINF:-1 ,没腿毛的哥哥的直播间_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9720447&$1920x1080
+#EXTINF:-1 ,【破案-推理-悬疑】_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425&$1920x1080
+#EXTINF:-1 ,【小宇】铁汁们冲鸭~~~~_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=54945&$1920x1080
+#EXTINF:-1 ,【怀旧】姜子牙，孙悟空打妖怪的故事_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6861249&$1920x1080
+#EXTINF:-1 ,1000部悬疑电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9601429&$1920x1080
+#EXTINF:-1 ,内涵 搞笑 短剧，每日更新！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2995636&$1920x1080
+#EXTINF:-1 ,【成龙历险记】最详细的解说_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9542834&$1920x1080
+#EXTINF:-1 ,【德善】所谓胡同就是，用时间来造就朋友_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8600645&$1920x1080
+#EXTINF:-1 ,已更新：宇哥带你几分钟看完一部好电影_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2104744&$1920x1080
+#EXTINF:-1 ,【刑侦】饿不饿，要不要下一碗面吃呀_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=138959&$640x480
+#EXTINF:-1 ,【三德子】春天总会来，桃花总会开_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7550220&$704x480
+#EXTINF:-1 ,【李卫】县令几品，拿剑来_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9290755&$704x480
+#EXTINF:-1 ,全网最清晰林正英_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023&$712x400
+#EXTINF:-1 ,看的不是剧【是回忆】求关注_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7919720&$720x480
+#EXTINF:-1 ,沉郁观影 带您看奇案_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9393577&$852x480
+#EXTINF:-1 ,加菲喵の开心生活?_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7422897&$852x480
+#EXTINF:-1 ,风不来，树不动；船不摇，水不浑！_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3758762&$960x540
+#EXTINF:-1 ,【蓝翔】经典电视剧_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7459925&$960x540
+#EXTINF:-1 ,金庸武侠、古装神剧_直播间
+http://huanqiuzhibo.cn/manifest/douyu.php?id=338759&$960x540
+#EXTINF:-1 ,贝爷MAX厅
+http://epg.112114.xyz/douyu/4332?$1920x1080
+#EXTINF:-1 ,贝爷影厅1
+http://epg.112114.xyz/douyu/252802?$10M1920x1080
+#EXTINF:-1 ,贝爷影厅2
+http://epg.112114.xyz/douyu/36337?$1920x1080
+#EXTINF:-1 ,冰冰经典电影
+http://epg.112114.xyz/douyu/74374?$1920x1080
+#EXTINF:-1 ,斗鱼电影10
+http://epg.112114.xyz/douyu/2935323?$1536x864
+#EXTINF:-1 ,斗鱼电影108
+http://epg.112114.xyz/douyu/6566671?$1920x1080
+#EXTINF:-1 ,斗鱼电影111
+http://epg.112114.xyz/douyu/8475821?$1920x1080
+#EXTINF:-1 ,斗鱼电影120
+http://epg.112114.xyz/douyu/5354713?$1920x1080
+#EXTINF:-1 ,斗鱼电影129
+http://epg.112114.xyz/douyu/413573?$1920x1080
+#EXTINF:-1 ,斗鱼电影130
+http://epg.112114.xyz/douyu/8014467?$1920x1080
+#EXTINF:-1 ,斗鱼电影134
+http://epg.112114.xyz/douyu/6725858?$1920x1080
+#EXTINF:-1 ,斗鱼电影137
+http://epg.112114.xyz/douyu/1274132?$4M1920x1080
+#EXTINF:-1 ,斗鱼电影151
+http://epg.112114.xyz/douyu/426517?$1920x1080
+#EXTINF:-1 ,斗鱼电影153
+http://epg.112114.xyz/douyu/8799435?$1920x1080
+#EXTINF:-1 ,斗鱼电影155
+http://epg.112114.xyz/douyu/4258555?$1920x1080
+#EXTINF:-1 ,斗鱼电影158
+http://epg.112114.xyz/douyu/8788687?$1920x1080
+#EXTINF:-1 ,斗鱼电影16
+http://epg.112114.xyz/douyu/431460?$1920x1080
+#EXTINF:-1 ,斗鱼电影165
+http://epg.112114.xyz/douyu/8705754?$1920x1080
+#EXTINF:-1 ,斗鱼电影168
+http://epg.112114.xyz/douyu/6861249?$1920x1080
+#EXTINF:-1 ,斗鱼电影18
+http://epg.112114.xyz/douyu/4246519?$1920x1080
+#EXTINF:-1 ,斗鱼电影21
+http://epg.112114.xyz/douyu/6776615?$1920x1080
+#EXTINF:-1 ,斗鱼电影22
+http://epg.112114.xyz/douyu/1979257?$1600x900
+#EXTINF:-1 ,斗鱼电影26
+http://epg.112114.xyz/douyu/8413092?$1920x1080
+#EXTINF:-1 ,斗鱼电影35
+http://epg.112114.xyz/douyu/248753?$1920x1080
+#EXTINF:-1 ,斗鱼电影7
+http://epg.112114.xyz/douyu/3637726?$1920x1080
+#EXTINF:-1 ,斗鱼电影79
+http://epg.112114.xyz/douyu/805235?$1920x1080
+#EXTINF:-1 ,斗鱼电影8
+http://epg.112114.xyz/douyu/323876?$1920x1080
+#EXTINF:-1 ,斗鱼电影81
+http://epg.112114.xyz/douyu/3870925?$1920x1080
+#EXTINF:-1 ,斗鱼电影92
+http://epg.112114.xyz/douyu/7537296?$1920x1080
+#EXTINF:-1 ,斗鱼电影94
+http://epg.112114.xyz/douyu/4396972?$1920x1080
+#EXTINF:-1 ,斗鱼电影99
+http://epg.112114.xyz/douyu/7655471?$1920x1080
+#EXTINF:-1 ,高帧影片
+http://epg.112114.xyz/douyu/6763930?$1920x1080
+#EXTINF:-1 ,华语动作电影
+http://epg.112114.xyz/douyu/1504768?$1920x1080
+#EXTINF:-1 ,可乐电影
+http://epg.112114.xyz/douyu/20415?$1920x1080
+#EXTINF:-1 ,林正英电影1
+http://epg.112114.xyz/douyu/218859?$4M1920x1080
+#EXTINF:-1 ,刘德华电影1
+http://epg.112114.xyz/douyu/2516864?$1920x1080
+#EXTINF:-1 ,刘德华电影2
+http://epg.112114.xyz/douyu/8985415?$1920x1080
+#EXTINF:-1 ,漫威影片
+http://epg.112114.xyz/douyu/6140589?$1920x1080
+#EXTINF:-1 ,米娅电影
+http://epg.112114.xyz/douyu/6537888?$10M1920x1080
+#EXTINF:-1 ,奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824?$1920x1080
+#EXTINF:-1 ,神乐影片1
+http://epg.112114.xyz/douyu/122402?$1920x1080
+#EXTINF:-1 ,神乐影片2
+http://epg.112114.xyz/douyu/85894?$1920x1080
+#EXTINF:-1 ,喜剧经典
+http://epg.112114.xyz/douyu/9650887?$1920x1080
+
+🇨🇳｜MV,
+#EXTINF:-1 ,热歌辣妹3
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+#EXTINF:-1 ,热歌辣妹4
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+#EXTINF:-1 ,热歌辣妹5
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+#EXTINF:-1 ,热歌辣妹6
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+#EXTINF:-1 ,热歌辣妹7
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+#EXTINF:-1 ,热歌辣妹8
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+#EXTINF:-1 ,热歌辣妹9
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+#EXTINF:-1 ,热歌辣妹10
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+#EXTINF:-1 ,热歌辣妹11
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+#EXTINF:-1 ,热歌辣妹12
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+#EXTINF:-1 ,热歌辣妹13
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+#EXTINF:-1 ,热歌辣妹14
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
+#EXTINF:-1 ,热歌辣妹15
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+#EXTINF:-1 ,热歌辣妹16
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+#EXTINF:-1 ,热歌辣妹17
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4
+#EXTINF:-1 ,热歌辣妹18
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+#EXTINF:-1 ,热歌辣妹19
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+#EXTINF:-1 ,热歌辣妹20
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqfmh7QUoqNfLigE.mp4
+#EXTINF:-1 ,热歌辣妹21
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fO98AUo7-WMigc.mp4
+#EXTINF:-1 ,热歌辣妹22
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
+#EXTINF:-1 ,热歌辣妹23
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Nf77QUo0Kngqgc.mp4
+#EXTINF:-1 ,热歌辣妹24
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+#EXTINF:-1 ,热歌辣妹25
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+#EXTINF:-1 ,热歌辣妹26
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
+#EXTINF:-1 ,热歌辣妹27
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K_04wUo5-iTyAU.mp4
+#EXTINF:-1 ,热歌辣妹28
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
+#EXTINF:-1 ,热歌辣妹29
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
+#EXTINF:-1 ,热歌辣妹30
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_fih7QUovpfokgI.mp4
+#EXTINF:-1 ,热歌辣妹32
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.mp4
+#EXTINF:-1 ,热歌辣妹33
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
+#EXTINF:-1 ,热歌辣妹34
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
