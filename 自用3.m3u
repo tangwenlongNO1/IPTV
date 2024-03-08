@@ -55,18 +55,6 @@ http://epg.112114.xyz/douyu/6537888?$10M斗鱼
 http://epg.112114.xyz/douyu/252802?$10M斗鱼
 #EXTINF:-1 ,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?$8M陕回
-#EXTINF:-1 ,CHC家庭电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
-#EXTINF:-1 ,CHC高清电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
-#EXTINF:-1 ,CHC动作电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&$8M陕西
-#EXTINF:-1 ,CHC动作电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
-#EXTINF:-1 ,CHC高清电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
-#EXTINF:-1 ,CHC家庭电影
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&&&$8M江西
 #EXTINF:-1 ,《武侠剧》_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471&$1024x768
 #EXTINF:-1 ,【吐槽】吐槽一下，快乐一天_直播间
@@ -161,8 +149,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9222870&$1536x720
 http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323&$1536x864
 #EXTINF:-1 ,【美剧】几分钟看经典美剧！_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1979257&$1600x900
-#EXTINF:-1 ,【花卷陪看】60帧豆瓣高分电影_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=52787&$1920x1080
 #EXTINF:-1 ,24H欢乐不断
 http://huanqiuzhibo.cn/manifest/douyu.php?id=131977&$1920x1080
 #EXTINF:-1 ,直播间
@@ -261,8 +247,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=752376&$1920x1080
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1360303&$1920x1080
 #EXTINF:-1 ,译制国语影片荟萃_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390&$1920x1080
-#EXTINF:-1 ,百大UP主最新视频，每周一更新_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=1557505&$1920x1080
 #EXTINF:-1 ,扯点电影那些事~！_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5354713&$1920x1080
 #EXTINF:-1 ,港剧电视剧 满满的回忆_直播间

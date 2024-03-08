@@ -51,10 +51,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/syxsd.jpg",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/haining.jpg",海宁新闻综合
-http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/haining.jpg",海宁生活服务
-http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/lanxitv.jpg",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/deqing.jpg",德清新闻综合
@@ -269,10 +265,6 @@ http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
 #EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/河南民生.png",河南民生
 http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?
-#EXTINF:-1 group-title="安徽" tvg-logo="http://www.tvyan.com/uploads/dianshi/hnsxw.jpg",淮南新闻综合
-http://stream.0554news.com/hnds1/sd/live.m3u8
-#EXTINF:-1 group-title="安徽" tvg-logo="http://www.tvyan.com/uploads/dianshi/hnsgg.jpg",淮南公共台
-http://stream.0554news.com/hnds2/sd/live.m3u8
 #EXTINF:-1 group-title="云南" tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg",文山综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 group-title="云南" tvg-logo="http://www.tvyan.com/uploads/dianshi/wsrtv.jpg",文山公共

@@ -19,10 +19,6 @@ http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8?zjiangsd
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/苏州4K.png",苏州4k
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-#EXTINF:-1 ,淮安公共频道
-http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/haysylpd.jpg",淮安影院娱乐
-http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxxwzh.png",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wxylpd.png",无锡娱乐
@@ -63,20 +59,8 @@ http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/suyangtai.jpg",沭阳综合频道
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yangzhongtv.jpg",扬中新闻频道
-http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/yangzhongtv.jpg",扬中党建民生
-http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jjxwzhpd.jpg",靖江新闻综合
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8?zjiangsd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jjxwzhpd.jpg",靖江新闻综合
-http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/gaoyoutai.jpg",高邮综合频道
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
-#EXTINF:-1 ,贾汪新闻频道
-http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
-#EXTINF:-1 ,贾汪旅游频道
-http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/siyangtai.jpg",泗阳综合频道
 http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/siyangtai.jpg",泗阳资讯频道
@@ -407,7 +391,5 @@ http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8?zguangd
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/heyuan.jpg",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/allimg/1706/1-1F6011123040-L.jpg",北京新闻
-http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 #EXTINF:-1 ,北京通州
 http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
