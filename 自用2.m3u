@@ -43,12 +43,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 ,有线新闻
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 ,TVBRICS
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 ,东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 ,大爱
@@ -79,8 +73,6 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/香港卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1 ,时尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 ,番薯台
@@ -101,8 +93,6 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?$960x540
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?$960x540
 #EXTINF:-1 ,凤凰资讯[960x540]
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?$960x540
-#EXTINF:-1 ,澳门莲花[1920x1080]
-http://epg.112114.xyz/lotus?$1920x1080
 #EXTINF:-1 ,TVBellAmie[960x540]
 http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8?$1M960x540
 #EXTINF:-1 ,耀才财经[1024x576]
@@ -115,8 +105,6 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8?$1024x576
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8?$1280x720
 #EXTINF:-1 ,凤凰中文[960x540]
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8?$960x540
-#EXTINF:-1 ,香港衛視文旅[854x480]
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8?$854x480
 #EXTINF:-1 ,香港佛陀[1280x720]
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8?$1280x720
 #EXTINF:-1 ,新加坡国际[1280x720]
@@ -131,10 +119,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?$3M1280x720
 #EXTINF:-1 ,番薯[1920x1080]
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?$2M1920x1080
-#EXTINF:-1 ,TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 ,台视新闻
@@ -145,8 +129,6 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 ,好消息电视台2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,香港佛陀
@@ -157,8 +139,6 @@ https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3u8
 #EXTINF:-1 ,好消息综合1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
-#EXTINF:-1 ,好消息综合2
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch50-2.m3u8
 #EXTINF:-1 ,好消息综合
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 ,好消息真理
@@ -167,13 +147,3 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 #EXTINF:-1 ,共享观点
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
-#EXTINF:-1 ,慕主音乐
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-#EXTINF:-1 ,迎接愎兴
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
-#EXTINF:-1 ,爱+好医生
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
-#EXTINF:-1 ,我们旅行
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-#EXTINF:-1 ,孙叔唱副歌
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8

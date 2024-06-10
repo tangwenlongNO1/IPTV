@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,真情之夜
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
 #EXTINF:-1 ,叶光明牧师
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch16-2.m3u8
 #EXTINF:-1 ,大卫鲍森
@@ -9,8 +7,6 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
 #EXTINF:-1 ,恩典时分
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch20-2.m3u8
-#EXTINF:-1 ,华语讲员
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
 #EXTINF:-1 ,刘三讲古
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
 #EXTINF:-1 ,空中圣经学院
@@ -21,40 +17,20 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch29-2.m3u8
 #EXTINF:-1 ,敬拜赞美音乐
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
-#EXTINF:-1 ,福音布道音乐
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
 #EXTINF:-1 ,祷告与转化
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch32-2.m3u8
-#EXTINF:-1 ,研经培灵
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch33-2.m3u8
-#EXTINF:-1 ,天父的心
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch35-2.m3u8
-#EXTINF:-1 ,末世信息
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch38-2.m3u8
-#EXTINF:-1 ,台中好圣诞
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch39-2.m3u8
 #EXTINF:-1 ,转转发现
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch40-2.m3u8
-#EXTINF:-1 ,爱+好医生1
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch42-2.m3u8
-#EXTINF:-1 ,幸福来敲门
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch43-2.m3u8
 #EXTINF:-1 ,新约妙妙妙
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
 #EXTINF:-1 ,新约妙妙妙
 https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-#EXTINF:-1 ,牧者频道
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch47-2.m3u8
-
-影视,
 #EXTINF:-1 ,科幻动作经典喜剧
 http://epg.112114.xyz/douyu/4332?$9M斗鱼
 #EXTINF:-1 ,米娅电影
 http://epg.112114.xyz/douyu/6537888?$10M斗鱼
 #EXTINF:-1 ,科幻 动作
 http://epg.112114.xyz/douyu/252802?$10M斗鱼
-#EXTINF:-1 ,CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?$8M陕回
 #EXTINF:-1 ,《武侠剧》_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7655471&$1024x768
 #EXTINF:-1 ,【吐槽】吐槽一下，快乐一天_直播间
@@ -79,8 +55,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=2337939&$1280x720
 http://huanqiuzhibo.cn/manifest/douyu.php?id=276200&$1280x720
 #EXTINF:-1 ,【美食】何以解忧，荞麦乌冬~_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8953746&$1280x720
-#EXTINF:-1 ,【沙雕】五毛特效，大战恶龙_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7421687&$1280x720
 #EXTINF:-1 ,【小鸽陪看】动作 枪战 经典 科幻_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3928&$1280x720
 #EXTINF:-1 ,杀死燕双鹰，活捉狄仁杰！_直播间
@@ -93,8 +67,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256&$1280x720
 http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084&$1280x720
 #EXTINF:-1 ,懒猫 美食家 点播_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=260322&$1280x720
-#EXTINF:-1 ,【恐怖电影】鬼片 僵尸 灾难 丧尸片_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=310926&$1280x720
 #EXTINF:-1 ,正常开播，欢迎欢迎_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=319576&$1280x720
 #EXTINF:-1 ,【倍速播放】快乐会加倍！_直播间
@@ -119,12 +91,8 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499&$1280x720
 http://huanqiuzhibo.cn/manifest/douyu.php?id=2164691&$1280x720
 #EXTINF:-1 ,【午夜消暑】伊藤润二恐怖漫画血亏解说专场_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8936207&$1280x720
-#EXTINF:-1 ,纪录经典时刻..... 3485629_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=3485629&$1280x720
 #EXTINF:-1 ,【武侠】【经典】【历史】_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5875025&$1280x720
-#EXTINF:-1 ,肖胜350的直播间_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=7338853&$1280x720
 #EXTINF:-1 ,【绝命毒师】经典美剧解说_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9422144&$1280x720
 #EXTINF:-1 ,顺风为主 其他情喜影剧集锦为辅 随机连播_直播间
@@ -133,8 +101,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6369954&$1280x720
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4579455&$1280x720
 #EXTINF:-1 ,重新开业！感谢支持！_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7495810&$1280x720
-#EXTINF:-1 ,避风港电影院_直播间
-http://huanqiuzhibo.cn/manifest/douyu.php?id=9826611&$1280x720
 #EXTINF:-1 ,【米尼影院】纪录片_直播间
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7642724&$1280x720
 #EXTINF:-1 ,经典影视直播间 3113309_直播间
@@ -331,113 +297,31 @@ http://epg.112114.xyz/douyu/8705754?$1920x1080
 http://epg.112114.xyz/douyu/6861249?$1920x1080
 #EXTINF:-1 ,斗鱼电影18
 http://epg.112114.xyz/douyu/4246519?$1920x1080
-#EXTINF:-1 ,斗鱼电影21
-http://epg.112114.xyz/douyu/6776615?$1920x1080
 #EXTINF:-1 ,斗鱼电影22
 http://epg.112114.xyz/douyu/1979257?$1600x900
 #EXTINF:-1 ,斗鱼电影26
 http://epg.112114.xyz/douyu/8413092?$1920x1080
-#EXTINF:-1 ,斗鱼电影35
-http://epg.112114.xyz/douyu/248753?$1920x1080
-#EXTINF:-1 ,斗鱼电影7
-http://epg.112114.xyz/douyu/3637726?$1920x1080
-#EXTINF:-1 ,斗鱼电影79
-http://epg.112114.xyz/douyu/805235?$1920x1080
 #EXTINF:-1 ,斗鱼电影8
 http://epg.112114.xyz/douyu/323876?$1920x1080
 #EXTINF:-1 ,斗鱼电影81
 http://epg.112114.xyz/douyu/3870925?$1920x1080
 #EXTINF:-1 ,斗鱼电影92
 http://epg.112114.xyz/douyu/7537296?$1920x1080
-#EXTINF:-1 ,斗鱼电影94
-http://epg.112114.xyz/douyu/4396972?$1920x1080
 #EXTINF:-1 ,斗鱼电影99
 http://epg.112114.xyz/douyu/7655471?$1920x1080
-#EXTINF:-1 ,高帧影片
-http://epg.112114.xyz/douyu/6763930?$1920x1080
-#EXTINF:-1 ,华语动作电影
-http://epg.112114.xyz/douyu/1504768?$1920x1080
 #EXTINF:-1 ,可乐电影
 http://epg.112114.xyz/douyu/20415?$1920x1080
 #EXTINF:-1 ,林正英电影1
 http://epg.112114.xyz/douyu/218859?$4M1920x1080
 #EXTINF:-1 ,刘德华电影1
 http://epg.112114.xyz/douyu/2516864?$1920x1080
-#EXTINF:-1 ,刘德华电影2
-http://epg.112114.xyz/douyu/8985415?$1920x1080
 #EXTINF:-1 ,漫威影片
 http://epg.112114.xyz/douyu/6140589?$1920x1080
-#EXTINF:-1 ,米娅电影
-http://epg.112114.xyz/douyu/6537888?$10M1920x1080
-#EXTINF:-1 ,奶虫恐怖电影
-http://epg.112114.xyz/douyu/263824?$1920x1080
 #EXTINF:-1 ,神乐影片1
 http://epg.112114.xyz/douyu/122402?$1920x1080
 #EXTINF:-1 ,神乐影片2
 http://epg.112114.xyz/douyu/85894?$1920x1080
-#EXTINF:-1 ,喜剧经典
-http://epg.112114.xyz/douyu/9650887?$1920x1080
-
-🇨🇳｜MV,
-#EXTINF:-1 ,热歌辣妹3
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
-#EXTINF:-1 ,热歌辣妹4
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-#EXTINF:-1 ,热歌辣妹5
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-#EXTINF:-1 ,热歌辣妹6
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
-#EXTINF:-1 ,热歌辣妹7
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-#EXTINF:-1 ,热歌辣妹8
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-#EXTINF:-1 ,热歌辣妹9
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-#EXTINF:-1 ,热歌辣妹10
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
 #EXTINF:-1 ,热歌辣妹11
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
-#EXTINF:-1 ,热歌辣妹12
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
 #EXTINF:-1 ,热歌辣妹13
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
-#EXTINF:-1 ,热歌辣妹14
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
-#EXTINF:-1 ,热歌辣妹15
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
-#EXTINF:-1 ,热歌辣妹16
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
-#EXTINF:-1 ,热歌辣妹17
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4
-#EXTINF:-1 ,热歌辣妹18
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
-#EXTINF:-1 ,热歌辣妹19
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
-#EXTINF:-1 ,热歌辣妹20
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqfmh7QUoqNfLigE.mp4
-#EXTINF:-1 ,热歌辣妹21
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fO98AUo7-WMigc.mp4
-#EXTINF:-1 ,热歌辣妹22
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
-#EXTINF:-1 ,热歌辣妹23
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Nf77QUo0Kngqgc.mp4
-#EXTINF:-1 ,热歌辣妹24
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
-#EXTINF:-1 ,热歌辣妹25
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
-#EXTINF:-1 ,热歌辣妹26
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
-#EXTINF:-1 ,热歌辣妹27
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K_04wUo5-iTyAU.mp4
-#EXTINF:-1 ,热歌辣妹28
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
-#EXTINF:-1 ,热歌辣妹29
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
-#EXTINF:-1 ,热歌辣妹30
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_fih7QUovpfokgI.mp4
-#EXTINF:-1 ,热歌辣妹32
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.mp4
-#EXTINF:-1 ,热歌辣妹33
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
-#EXTINF:-1 ,热歌辣妹34
-https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4

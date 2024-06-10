@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/nasatv.jpg",NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/geographic.jpg",國家地理野生頻道
-http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/starhd.jpg",星卫HD电影
-http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-#EXTINF:-1 ,ABC News US
-http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CNN.png",CNN
-http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:-1 ,德国DW Deutsch
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/香港卫视.png",香港卫视
@@ -29,10 +21,6 @@ http://stream.hhek.cn/dyjy/sd/live.m3u8
 http://stream.hhek.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="Weather" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/bozhounongcun.jpg",亳州农村频道
-http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/bozhouxinwen.jpg",亳州新闻频道
-http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jlxcpd.jpg",吉林乡村
 http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jlxwpd.jpg",吉林公共新闻
@@ -45,12 +33,6 @@ http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020
 http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/山西卫视.png",山西卫视
 http://125.210.152.10:8060/live/SXWS.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/gyggpd.jpg",广元公共
-http://3g.dzsm.com/streamer/gy04.m3u8
-#EXTINF:-1 ,广元影视
-http://3g.dzsm.com/streamer/gy02.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/gaxwpd.jpg",广元综合
-http://3g.dzsm.com/streamer/gy03.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/dztv2.jpg",德州公共频道
 http://video.dztv.tv:1935/live/dzgg_bq/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/dztv2.jpg",德州公共频道
@@ -71,40 +53,20 @@ http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 http://video.dztv.tv:1935/live/xwzh_sj/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=14e4b49cc03d70cf4cfaad0bc0e7b63d/f31fbe096b63f62400badfa68e44ebf81b4ca3b4.jpg",德州都市
 http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xintai.jpg",新泰乡村党建
-http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xintai.jpg",新泰生活频道
-http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xintai.jpg",新泰综合频道
-http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jingxiantai.jpg",景县电视一套
-http://hbjx.chinashadt.com:1935/live/stream:jx1.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangjin.jpg",江津文化旅游
 http://222.179.155.21:1935/ch2.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangjin.jpg",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangjin.jpg",江津经济生活
 http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/woyangxinwen.jpg",涡阳新闻综合
-http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.M3U8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xtggdspd.jpg",湘潭公共频道
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xtxwpd.jpg",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/bhntv1.jpg",滨海新闻综合
-http://jsbh.chinashadt.com:2036/live/bh11.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/zhangzhou.jpg",漳州新闻综合
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/hdkjpd.jpg",邯郸公共
-http://live.hd.hdbs.cn/video/s10001-hdggpd/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/hdxwpd.jpg",邯郸新闻综合
-http://live.hd.hdbs.cn/video/s10001-hdxwpd/index.m3u8
-#EXTINF:-1 ,邯郸科技教育
-http://live.hd.hdbs.cn/video/s10001-hdkjpd/index.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/hebi.jpg",鹤壁新闻综合
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/longyan.jpg",龙岩综合
-http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTINF:-1 ,CCTV PLUS LD （360p）
 http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
@@ -211,8 +173,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 ,波兰TV Torun
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 ,乌克兰100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 ,斯洛伐克TV 8
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 #EXTINF:-1 ,斯洛伐克TVNZ
