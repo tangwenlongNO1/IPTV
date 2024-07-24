@@ -235,8 +235,6 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 group-title="Algeria" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic (576p)
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Algeria" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One (1080p)
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Algeria" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯

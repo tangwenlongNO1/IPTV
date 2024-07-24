@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/fangshantv.jpg",房山无线频道
-http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xtxwpd.jpg",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/xtggdspd.jpg",湘潭公共频道
@@ -13,8 +11,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/sxwhys.jpg",绍兴文化影院
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jhdsnc.jpg",金华都市农村
-http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/wuyitv.jpg",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/phxwzh.jpg",平湖新闻综合
@@ -223,14 +219,6 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 group-title="浙江",新昌生活频道
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 group-title="河北" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjzxwpd.jpg",石家庄新闻
-http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-#EXTINF:-1 group-title="河北" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjzylpd.jpg",石家庄娱乐
-http://pluslive1.sjzntv.cn/yule/playlist.m3u8
-#EXTINF:-1 group-title="河北" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjzshpd.jpg",石家庄生活
-http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-#EXTINF:-1 group-title="河北" tvg-logo="http://www.tvyan.com/uploads/dianshi/sjzds.jpg",石家庄都市
-http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 #EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/河南都市.png",河南都市
 http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?
 #EXTINF:-1 group-title="河南" tvg-logo="https://live.fanmingming.com/tv/河南民生.png",河南民生
@@ -257,8 +245,6 @@ http://open.live-web.timetv.cn/live03/nxys.m3u8
 http://open.live-web.timetv.cn/live03/nxse.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 ,DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,K频道欧美版
 http://live.redtraffic.xyz:80/threesome.m3u8
 #EXTINF:-1 ,车模视频
@@ -289,8 +275,6 @@ http://stream1.jlntv.cn/ggpd/sd/live.m3u8
 http://stream1.jlntv.cn/shpd/sd/live.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/jlyspd.jpg",吉林 Ⅰ 吉林影视
 http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 ,喀麦隆ⅠVision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 ,拉脱维亚RETV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:-1 ,美国ⅠNewsmax TV
@@ -315,18 +299,12 @@ http://live.redtraffic.xyz:80/fetish.m3u8
 http://live.redtraffic.xyz:80/bigdick.m3u8
 #EXTINF:-1 ,泰国·公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 ,土耳其CayTV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 ,玩美台欧美版
 http://live.redtraffic.xyz:80/pov.m3u8
 #EXTINF:-1 ,希腊IonianChannel
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 ,香蕉台欧美版
 http://live.redtraffic.xyz:80/milf.m3u8
-#EXTINF:-1 ,新加坡-CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/耀才财经.png",耀才财经
@@ -341,8 +319,6 @@ http://210.245.20.94/hls/ktv1.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 #EXTINF:-1 ,越南坚江频道
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/hhtv-1.jpg",云南 Ⅰ 红河综合
-http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 ,云南 Ⅰ 麻栗坡台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.tvyan.com/uploads/dianshi/mlptv.jpg",云南 Ⅰ 马关电视

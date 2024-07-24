@@ -35,8 +35,6 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,华语电视3
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 ,长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 ,大立电视
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 ,凤凰资讯
@@ -113,10 +111,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8?$854x480
 #EXTINF:-1 ,唯心电视[854x480]
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8?$1M854x480
-#EXTINF:-1 ,CNA[1920x1080]
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd&&&$5M1920x1080
-#EXTINF:-1 ,亚洲新聞台[1280x720]
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?$3M1280x720
 #EXTINF:-1 ,番薯[1920x1080]
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?$2M1920x1080
 #EXTINF:-1  tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/民视新闻台",民视新闻台
@@ -129,8 +123,6 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 ,好消息电视台2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 ,好消息电视台1
